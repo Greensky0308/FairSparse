@@ -1,0 +1,51 @@
+patient_id	cohort	SEX	AGE	fusion_status	histology	sample_type	FFPM
+FCF55T	Francisco2022	F	32	positive	FLC	Recurrent	NA
+FCF56T	Francisco2022	F	25	positive	FLC	Primary	NA
+FCF57T	Francisco2022	F	27	positive	FLC	Primary	NA
+FCF58LT	Francisco2022	F	27	positive	FLC	Primary	NA
+FCF82T	Francisco2022	M	15	positive	FLC	Primary	NA
+FCF83T	Francisco2022	F	19	positive	FLC	Primary	NA
+FCF84T	Francisco2022	M	21	positive	FLC	Primary	NA
+FCF85T	Francisco2022	M	12	positive	FLC	Metastatic	NA
+FCF88T5	Francisco2022	F	25	positive	FLC	Primary	NA
+FCF89T5	Francisco2022	M	29	positive	FLC	Primary	NA
+FCF90T10	Francisco2022	M	36	positive	FLC	Metastatic	NA
+FLC01	Francisco2022	F	24	positive	FLC	Metastatic	13.7488
+FLC04	Francisco2022	M	27	positive	FLC	Metastatic	0.3627
+FLC06	Francisco2022	F	20	positive	FLC	Metastatic	31.3037
+FLC07	Francisco2022	M	16	positive	FLC	Primary	3.4038
+FLC09	Francisco2022	M	28	positive	FLC	Primary	9.8276
+FLC12	Francisco2022	M	27	positive	FLC	Recurrent	8.1401
+FLC13	Francisco2022	F	17	positive	FLC	Metastatic	NA
+FLC15	Francisco2022	F	48	positive	FLC	Metastatic	NA
+FLC17	Francisco2022	M	17	positive	FLC	Metastatic	0.234
+FLC18	Francisco2022	F	18	positive	FLC	Primary	14.6753
+FLC20	Francisco2022	M	19	positive	FLC	Metastatic	31.117
+FLC25	Francisco2022	F	22	positive	FLC	Metastatic	14.4088
+FLC26	Francisco2022	M	18	positive	FLC	Primary	27.3069
+FLC27	Francisco2022	F	18	positive	FLC	Primary	21.4717
+FLC28	Francisco2022	F	30	positive	FLC	Metastatic	2.9773
+FLC29	Francisco2022	F	29	positive	FLC	Metastatic	24.3437
+FLC30	Francisco2022	F	31	positive	FLC	Metastatic	26.0441
+FLC31	Francisco2022	F	27	positive	FLC	Metastatic	9.5958
+FLC32	Francisco2022	F	16	positive	FLC	Metastatic	9.5415
+FLC33	Francisco2022	M	54	positive	FLC	Metastatic	10.5019
+FLC34	Francisco2022	M	18	positive	FLC	Primary	7.5577
+#794Ta	Hirsch2020	M	73	negative	HCC		
+#1010T	Hirsch2020	F	53	negative	HCC		
+#3894T	Hirsch2020	M	56	negative	HCC		
+#3907T	Hirsch2020	M	39	negative	HCC		
+#2135T	Hirsch2020	F	57	negative	HCC		
+#2211T	Hirsch2020	F	37	negative	HCC		
+#228T	Hirsch2020	M	48	negative	HCC		
+#1182T	Hirsch2020	F	51	negative	HCC		
+#800T	Hirsch2020	M	73	negative	HCC		
+#141T	Hirsch2020	F	67	negative	HCC		
+#412T	Hirsch2020	F	51	negative	FLC		
+#411T	Hirsch2020	F	65	negative	FLC		
+#3919T	Hirsch2020	F	54	negative	mixed-FLC/HCC		
+#4211T	Hirsch2020	F	40	negative	mixed-FLC/HCC		
+#026T	Hirsch2020	F	38	negative	mixed-FLC/HCC		
+#255T	Hirsch2020	F	39	negative	mixed-FLC/HCC		
+#187T	Hirsch2020	M	27	negative	mixed-FLC/HCC		
+#906T	Hirsch2020	F	50	negative	mixed-FLC/HCC		

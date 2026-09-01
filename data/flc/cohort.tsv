@@ -1,0 +1,21 @@
+patientId	SEX	AGE	Sample_Type	Sample_Location	FUSION_NEOEPITOPES	RECURRENT	PRIMARY
+FLC01	F	24	Metastatic	Unknown	2	0	0
+FLC02	M	32	Metastatic	Extrahepatic	3	0	0
+FLC03	M	19	Metastatic	Extrahepatic	0	0	0
+FLC04	M	27	Metastatic	Extrahepatic	3	0	0
+FLC05	F	25	Metastatic	Lymph node	7	0	0
+FLC06	F	18	Recurrent	Liver	10	1	0
+FLC07	M	16	Primary	Liver	3	0	1
+FLC09	M	28	Primary	Liver	5	0	1
+FLC12	M	27	Recurrent	Liver	9	1	0
+FLC13	F	17	Metastatic	Lung	4	0	0
+FLC15	F	48	Metastatic	Ascites	0	0	0
+FLC17	M	17	Metastatic	Lymph node	10	0	0
+FLC18	F	15	Primary	Liver	5	0	1
+FLC20	M	19	Metastatic	Lymph node	3	0	0
+FLC23	F	49	Primary	Liver	3	0	1
+FLC25	F	22	Metastatic	Lymph node	7	0	0
+FLC26	M	18	Primary	Liver	2	0	1
+FLC27	F	18	Metastatic	Lymph node	7	0	0
+FLC29	F	29	Metastatic	Lung	3	0	0
+FLC30	F	31	Metastatic	Peritoneal	3	0	0

@@ -1,0 +1,1090 @@
+[
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "IDH1",
+    "prevalence": 0.1388888888888889,
+    "eps": "inf",
+    "rel_error": 0.00800000000000005
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "IDH2",
+    "prevalence": 0.05555555555555555,
+    "eps": "inf",
+    "rel_error": 0.06399999999999999
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "FGFR2",
+    "prevalence": 0.05555555555555555,
+    "eps": "inf",
+    "rel_error": 0.13599999999999993
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "TP53",
+    "prevalence": 0.1111111111111111,
+    "eps": "inf",
+    "rel_error": 0.11799999999999991
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "KRAS",
+    "prevalence": 0.05555555555555555,
+    "eps": "inf",
+    "rel_error": 0.208
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "BAP1",
+    "prevalence": 0.19444444444444445,
+    "eps": "inf",
+    "rel_error": 0.35771428571428576
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "ARID1A",
+    "prevalence": 0.1111111111111111,
+    "eps": "inf",
+    "rel_error": 0.15399999999999994
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PBRM1",
+    "prevalence": 0.19444444444444445,
+    "eps": "inf",
+    "rel_error": 0.19771428571428573
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "BRAF",
+    "prevalence": 0.027777777777777776,
+    "eps": "inf",
+    "rel_error": 0.27999999999999997
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "NRAS",
+    "prevalence": 0.027777777777777776,
+    "eps": "inf",
+    "rel_error": 0.49599999999999994
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "STK11",
+    "prevalence": 0.027777777777777776,
+    "eps": "inf",
+    "rel_error": 0.08000000000000002
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "CDKN2A",
+    "prevalence": 0.05555555555555555,
+    "eps": "inf",
+    "rel_error": 0.22400000000000014
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PTEN",
+    "prevalence": 0.027777777777777776,
+    "eps": "inf",
+    "rel_error": 0.008000000000000076
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PIK3CA",
+    "prevalence": 0.05555555555555555,
+    "eps": "inf",
+    "rel_error": 0.0999999999999999
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "IDH1",
+    "prevalence": 0.1388888888888889,
+    "eps": "10.0",
+    "rel_error": 0.00800000000000005
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "IDH2",
+    "prevalence": 0.05555555555555555,
+    "eps": "10.0",
+    "rel_error": 0.06399999999999999
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "FGFR2",
+    "prevalence": 0.05555555555555555,
+    "eps": "10.0",
+    "rel_error": 0.13599999999999993
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "TP53",
+    "prevalence": 0.1111111111111111,
+    "eps": "10.0",
+    "rel_error": 0.11799999999999991
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "KRAS",
+    "prevalence": 0.05555555555555555,
+    "eps": "10.0",
+    "rel_error": 0.208
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "BAP1",
+    "prevalence": 0.19444444444444445,
+    "eps": "10.0",
+    "rel_error": 0.35771428571428576
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "ARID1A",
+    "prevalence": 0.1111111111111111,
+    "eps": "10.0",
+    "rel_error": 0.15399999999999994
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PBRM1",
+    "prevalence": 0.19444444444444445,
+    "eps": "10.0",
+    "rel_error": 0.19771428571428573
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "BRAF",
+    "prevalence": 0.027777777777777776,
+    "eps": "10.0",
+    "rel_error": 0.27999999999999997
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "NRAS",
+    "prevalence": 0.027777777777777776,
+    "eps": "10.0",
+    "rel_error": 0.49599999999999994
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "STK11",
+    "prevalence": 0.027777777777777776,
+    "eps": "10.0",
+    "rel_error": 0.08000000000000002
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "CDKN2A",
+    "prevalence": 0.05555555555555555,
+    "eps": "10.0",
+    "rel_error": 0.22400000000000014
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PTEN",
+    "prevalence": 0.027777777777777776,
+    "eps": "10.0",
+    "rel_error": 0.008000000000000076
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PIK3CA",
+    "prevalence": 0.05555555555555555,
+    "eps": "10.0",
+    "rel_error": 0.0999999999999999
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "IDH1",
+    "prevalence": 0.1388888888888889,
+    "eps": "2.0",
+    "rel_error": 0.5983999999999999
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "IDH2",
+    "prevalence": 0.05555555555555555,
+    "eps": "2.0",
+    "rel_error": 1.808
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "FGFR2",
+    "prevalence": 0.05555555555555555,
+    "eps": "2.0",
+    "rel_error": 1.5919999999999999
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "TP53",
+    "prevalence": 0.1111111111111111,
+    "eps": "2.0",
+    "rel_error": 0.566
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "KRAS",
+    "prevalence": 0.05555555555555555,
+    "eps": "2.0",
+    "rel_error": 1.3760000000000003
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "BAP1",
+    "prevalence": 0.19444444444444445,
+    "eps": "2.0",
+    "rel_error": 0.6765714285714286
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "ARID1A",
+    "prevalence": 0.1111111111111111,
+    "eps": "2.0",
+    "rel_error": 0.6920000000000001
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PBRM1",
+    "prevalence": 0.19444444444444445,
+    "eps": "2.0",
+    "rel_error": 0.2548571428571428
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "BRAF",
+    "prevalence": 0.027777777777777776,
+    "eps": "2.0",
+    "rel_error": 3.5360000000000005
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "NRAS",
+    "prevalence": 0.027777777777777776,
+    "eps": "2.0",
+    "rel_error": 4.112
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "STK11",
+    "prevalence": 0.027777777777777776,
+    "eps": "2.0",
+    "rel_error": 4.328
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "CDKN2A",
+    "prevalence": 0.05555555555555555,
+    "eps": "2.0",
+    "rel_error": 1.9880000000000002
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PTEN",
+    "prevalence": 0.027777777777777776,
+    "eps": "2.0",
+    "rel_error": 4.688000000000001
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PIK3CA",
+    "prevalence": 0.05555555555555555,
+    "eps": "2.0",
+    "rel_error": 1.4480000000000004
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "IDH1",
+    "prevalence": 0.1388888888888889,
+    "eps": "0.5",
+    "rel_error": 1.6351999999999998
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "IDH2",
+    "prevalence": 0.05555555555555555,
+    "eps": "0.5",
+    "rel_error": 5.804
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "FGFR2",
+    "prevalence": 0.05555555555555555,
+    "eps": "0.5",
+    "rel_error": 5.4799999999999995
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "TP53",
+    "prevalence": 0.1111111111111111,
+    "eps": "0.5",
+    "rel_error": 2.9960000000000004
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "KRAS",
+    "prevalence": 0.05555555555555555,
+    "eps": "0.5",
+    "rel_error": 6.344
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "BAP1",
+    "prevalence": 0.19444444444444445,
+    "eps": "0.5",
+    "rel_error": 1.232
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "ARID1A",
+    "prevalence": 0.1111111111111111,
+    "eps": "0.5",
+    "rel_error": 2.6000000000000005
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PBRM1",
+    "prevalence": 0.19444444444444445,
+    "eps": "0.5",
+    "rel_error": 1.262857142857143
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "BRAF",
+    "prevalence": 0.027777777777777776,
+    "eps": "0.5",
+    "rel_error": 11.24
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "NRAS",
+    "prevalence": 0.027777777777777776,
+    "eps": "0.5",
+    "rel_error": 12.32
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "STK11",
+    "prevalence": 0.027777777777777776,
+    "eps": "0.5",
+    "rel_error": 14.624
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "CDKN2A",
+    "prevalence": 0.05555555555555555,
+    "eps": "0.5",
+    "rel_error": 6.992000000000001
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PTEN",
+    "prevalence": 0.027777777777777776,
+    "eps": "0.5",
+    "rel_error": 12.968
+  },
+  {
+    "cohort": "chol",
+    "n": 36,
+    "subtype": "PIK3CA",
+    "prevalence": 0.05555555555555555,
+    "eps": "0.5",
+    "rel_error": 5.4799999999999995
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "BAP1",
+    "prevalence": 0.20689655172413793,
+    "eps": "inf",
+    "rel_error": 0.1503333333333333
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "NF2",
+    "prevalence": 0.22988505747126436,
+    "eps": "inf",
+    "rel_error": 0.24409999999999993
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "TP53",
+    "prevalence": 0.16091954022988506,
+    "eps": "inf",
+    "rel_error": 0.2801428571428571
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "SETD2",
+    "prevalence": 0.09195402298850575,
+    "eps": "inf",
+    "rel_error": 0.043000000000000045
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "LATS2",
+    "prevalence": 0.09195402298850575,
+    "eps": "inf",
+    "rel_error": 0.2387499999999999
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "SETDB1",
+    "prevalence": 0.034482758620689655,
+    "eps": "inf",
+    "rel_error": 0.334
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "BAP1",
+    "prevalence": 0.20689655172413793,
+    "eps": "10.0",
+    "rel_error": 0.1503333333333333
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "NF2",
+    "prevalence": 0.22988505747126436,
+    "eps": "10.0",
+    "rel_error": 0.24409999999999993
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "TP53",
+    "prevalence": 0.16091954022988506,
+    "eps": "10.0",
+    "rel_error": 0.2801428571428571
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "SETD2",
+    "prevalence": 0.09195402298850575,
+    "eps": "10.0",
+    "rel_error": 0.043000000000000045
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "LATS2",
+    "prevalence": 0.09195402298850575,
+    "eps": "10.0",
+    "rel_error": 0.2387499999999999
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "SETDB1",
+    "prevalence": 0.034482758620689655,
+    "eps": "10.0",
+    "rel_error": 0.334
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "BAP1",
+    "prevalence": 0.20689655172413793,
+    "eps": "2.0",
+    "rel_error": 0.4886666666666667
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "NF2",
+    "prevalence": 0.22988505747126436,
+    "eps": "2.0",
+    "rel_error": 0.5572999999999999
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "TP53",
+    "prevalence": 0.16091954022988506,
+    "eps": "2.0",
+    "rel_error": 0.8145714285714285
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "SETD2",
+    "prevalence": 0.09195402298850575,
+    "eps": "2.0",
+    "rel_error": 1.1967500000000002
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "LATS2",
+    "prevalence": 0.09195402298850575,
+    "eps": "2.0",
+    "rel_error": 0.7400000000000001
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "SETDB1",
+    "prevalence": 0.034482758620689655,
+    "eps": "2.0",
+    "rel_error": 3.0020000000000002
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "BAP1",
+    "prevalence": 0.20689655172413793,
+    "eps": "0.5",
+    "rel_error": 1.1943333333333335
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "NF2",
+    "prevalence": 0.22988505747126436,
+    "eps": "0.5",
+    "rel_error": 1.0879999999999999
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "TP53",
+    "prevalence": 0.16091954022988506,
+    "eps": "0.5",
+    "rel_error": 1.634857142857143
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "SETD2",
+    "prevalence": 0.09195402298850575,
+    "eps": "0.5",
+    "rel_error": 3.58925
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "LATS2",
+    "prevalence": 0.09195402298850575,
+    "eps": "0.5",
+    "rel_error": 3.2630000000000003
+  },
+  {
+    "cohort": "meso",
+    "n": 87,
+    "subtype": "SETDB1",
+    "prevalence": 0.034482758620689655,
+    "eps": "0.5",
+    "rel_error": 11.411999999999999
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "CTNNB1",
+    "prevalence": 0.2553763440860215,
+    "eps": "inf",
+    "rel_error": 0.5349894736842106
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "TP53",
+    "prevalence": 0.2956989247311828,
+    "eps": "inf",
+    "rel_error": 0.20189090909090918
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "AXIN1",
+    "prevalence": 0.06720430107526881,
+    "eps": "inf",
+    "rel_error": 0.047679999999999924
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ARID1A",
+    "prevalence": 0.07795698924731183,
+    "eps": "inf",
+    "rel_error": 0.28275862068965524
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ALB",
+    "prevalence": 0.12634408602150538,
+    "eps": "inf",
+    "rel_error": 0.10808510638297884
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "APOB",
+    "prevalence": 0.09408602150537634,
+    "eps": "inf",
+    "rel_error": 0.10537142857142852
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "RB1",
+    "prevalence": 0.051075268817204304,
+    "eps": "inf",
+    "rel_error": 0.09642105263157891
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "CDKN2A",
+    "prevalence": 0.024193548387096774,
+    "eps": "inf",
+    "rel_error": 0.4053333333333335
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ARID2",
+    "prevalence": 0.051075268817204304,
+    "eps": "inf",
+    "rel_error": 0.2922105263157895
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "KEAP1",
+    "prevalence": 0.04838709677419355,
+    "eps": "inf",
+    "rel_error": 0.07466666666666665
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "NFE2L2",
+    "prevalence": 0.02956989247311828,
+    "eps": "inf",
+    "rel_error": 0.12072727272727281
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "PIK3CA",
+    "prevalence": 0.03494623655913978,
+    "eps": "inf",
+    "rel_error": 0.3163076923076924
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "RPS6KA3",
+    "prevalence": 0.04032258064516129,
+    "eps": "inf",
+    "rel_error": 0.3888000000000001
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "BAP1",
+    "prevalence": 0.053763440860215055,
+    "eps": "inf",
+    "rel_error": 0.004399999999999973
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "CTNNB1",
+    "prevalence": 0.2553763440860215,
+    "eps": "10.0",
+    "rel_error": 0.5349894736842106
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "TP53",
+    "prevalence": 0.2956989247311828,
+    "eps": "10.0",
+    "rel_error": 0.20189090909090918
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "AXIN1",
+    "prevalence": 0.06720430107526881,
+    "eps": "10.0",
+    "rel_error": 0.047679999999999924
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ARID1A",
+    "prevalence": 0.07795698924731183,
+    "eps": "10.0",
+    "rel_error": 0.28275862068965524
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ALB",
+    "prevalence": 0.12634408602150538,
+    "eps": "10.0",
+    "rel_error": 0.10808510638297884
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "APOB",
+    "prevalence": 0.09408602150537634,
+    "eps": "10.0",
+    "rel_error": 0.10537142857142852
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "RB1",
+    "prevalence": 0.051075268817204304,
+    "eps": "10.0",
+    "rel_error": 0.09642105263157891
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "CDKN2A",
+    "prevalence": 0.024193548387096774,
+    "eps": "10.0",
+    "rel_error": 0.4053333333333335
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ARID2",
+    "prevalence": 0.051075268817204304,
+    "eps": "10.0",
+    "rel_error": 0.2922105263157895
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "KEAP1",
+    "prevalence": 0.04838709677419355,
+    "eps": "10.0",
+    "rel_error": 0.07466666666666665
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "NFE2L2",
+    "prevalence": 0.02956989247311828,
+    "eps": "10.0",
+    "rel_error": 0.12072727272727281
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "PIK3CA",
+    "prevalence": 0.03494623655913978,
+    "eps": "10.0",
+    "rel_error": 0.3163076923076924
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "RPS6KA3",
+    "prevalence": 0.04032258064516129,
+    "eps": "10.0",
+    "rel_error": 0.3888000000000001
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "BAP1",
+    "prevalence": 0.053763440860215055,
+    "eps": "10.0",
+    "rel_error": 0.004399999999999973
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "CTNNB1",
+    "prevalence": 0.2553763440860215,
+    "eps": "2.0",
+    "rel_error": 0.6211368421052631
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "TP53",
+    "prevalence": 0.2956989247311828,
+    "eps": "2.0",
+    "rel_error": 0.001018181818181718
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "AXIN1",
+    "prevalence": 0.06720430107526881,
+    "eps": "2.0",
+    "rel_error": 1.8867200000000002
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ARID1A",
+    "prevalence": 0.07795698924731183,
+    "eps": "2.0",
+    "rel_error": 1.257655172413793
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ALB",
+    "prevalence": 0.12634408602150538,
+    "eps": "2.0",
+    "rel_error": 0.6304680851063829
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "APOB",
+    "prevalence": 0.09408602150537634,
+    "eps": "2.0",
+    "rel_error": 0.9981714285714286
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "RB1",
+    "prevalence": 0.051075268817204304,
+    "eps": "2.0",
+    "rel_error": 2.2501052631578946
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "CDKN2A",
+    "prevalence": 0.024193548387096774,
+    "eps": "2.0",
+    "rel_error": 4.704000000000001
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ARID2",
+    "prevalence": 0.051075268817204304,
+    "eps": "2.0",
+    "rel_error": 2.3675789473684206
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "KEAP1",
+    "prevalence": 0.04838709677419355,
+    "eps": "2.0",
+    "rel_error": 2.3066666666666666
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "NFE2L2",
+    "prevalence": 0.02956989247311828,
+    "eps": "2.0",
+    "rel_error": 3.937454545454545
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "PIK3CA",
+    "prevalence": 0.03494623655913978,
+    "eps": "2.0",
+    "rel_error": 4.093538461538461
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "RPS6KA3",
+    "prevalence": 0.04032258064516129,
+    "eps": "2.0",
+    "rel_error": 3.0176000000000003
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "BAP1",
+    "prevalence": 0.053763440860215055,
+    "eps": "2.0",
+    "rel_error": 1.4924
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "CTNNB1",
+    "prevalence": 0.2553763440860215,
+    "eps": "0.5",
+    "rel_error": 0.7072842105263158
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "TP53",
+    "prevalence": 0.2956989247311828,
+    "eps": "0.5",
+    "rel_error": 0.4474181818181817
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "AXIN1",
+    "prevalence": 0.06720430107526881,
+    "eps": "0.5",
+    "rel_error": 5.011520000000001
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ARID1A",
+    "prevalence": 0.07795698924731183,
+    "eps": "0.5",
+    "rel_error": 4.028413793103448
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ALB",
+    "prevalence": 0.12634408602150538,
+    "eps": "0.5",
+    "rel_error": 2.1184680851063833
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "APOB",
+    "prevalence": 0.09408602150537634,
+    "eps": "0.5",
+    "rel_error": 3.0388571428571427
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "RB1",
+    "prevalence": 0.051075268817204304,
+    "eps": "0.5",
+    "rel_error": 6.283368421052631
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "CDKN2A",
+    "prevalence": 0.024193548387096774,
+    "eps": "0.5",
+    "rel_error": 13.549333333333333
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "ARID2",
+    "prevalence": 0.051075268817204304,
+    "eps": "0.5",
+    "rel_error": 6.479157894736842
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "KEAP1",
+    "prevalence": 0.04838709677419355,
+    "eps": "0.5",
+    "rel_error": 7.308000000000001
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "NFE2L2",
+    "prevalence": 0.02956989247311828,
+    "eps": "0.5",
+    "rel_error": 11.174545454545454
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "PIK3CA",
+    "prevalence": 0.03494623655913978,
+    "eps": "0.5",
+    "rel_error": 10.33169230769231
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "RPS6KA3",
+    "prevalence": 0.04032258064516129,
+    "eps": "0.5",
+    "rel_error": 8.1264
+  },
+  {
+    "cohort": "lihc",
+    "n": 372,
+    "subtype": "BAP1",
+    "prevalence": 0.053763440860215055,
+    "eps": "0.5",
+    "rel_error": 5.547199999999999
+  }
+]

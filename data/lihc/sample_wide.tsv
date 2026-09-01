@@ -1,0 +1,373 @@
+sampleId	ANEUPLOIDY_SCORE	CANCER_TYPE	CANCER_TYPE_DETAILED	FRACTION_GENOME_ALTERED	GRADE	MSI_SCORE_MANTIS	MSI_SENSOR_SCORE	MUTATION_COUNT	ONCOTREE_CODE	SAMPLE_TYPE	SOMATIC_STATUS	TBL_SCORE	TISSUE_PROSPECTIVE_COLLECTION_INDICATOR	TISSUE_RETROSPECTIVE_COLLECTION_INDICATOR	TISSUE_SOURCE_SITE	TISSUE_SOURCE_SITE_CODE	TMB_NONSYNONYMOUS	TUMOR_TISSUE_SITE	TUMOR_TYPE
+TCGA-2V-A95S-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2041	G3	0.3003	0	85	HCC	Primary	Matched	32	No	Yes	University of California San Diego	2V	2.866666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9GS-01	10	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3002	G2	0.3208	0.05	65	HCC	Primary	Matched	29	No	Yes	Moffitt Cancer Center	2Y	2.166666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9GT-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0622	G2	0.3119	0.02	84	HCC	Primary	Matched	19	No	Yes	Moffitt Cancer Center	2Y	2.766666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9GU-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3157	G2	0.3194	0.09	138	HCC	Primary	Matched	96	No	Yes	Moffitt Cancer Center	2Y	4.666666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9GV-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0928	G1	0.2977	0.03	61	HCC	Primary	Matched	22	No	Yes	Moffitt Cancer Center	2Y	2.066666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9GW-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1478	G2	0.3023	0.01	70	HCC	Primary	Matched	16	No	Yes	Moffitt Cancer Center	2Y	2.333333333	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9GX-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0122	G2	0.3126	0	55	HCC	Primary	Matched	13	No	Yes	Moffitt Cancer Center	2Y	1.833333333	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9GY-01	27	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4929	G3	0.3115	0.06	68	HCC	Primary	Matched	166	No	Yes	Moffitt Cancer Center	2Y	2.233333333	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9GZ-01	16	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4572	G2	0.3133	0.07	82	HCC	Primary	Matched	168	No	Yes	Moffitt Cancer Center	2Y	2.8	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9H0-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2037	G1	0.3054	0.15	73	HCC	Primary	Matched	361	No	Yes	Moffitt Cancer Center	2Y	2.4	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9H1-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1707	G2	0.3061	0.03	119	HCC	Primary	Matched	22	No	Yes	Moffitt Cancer Center	2Y	4.033333333	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9H2-01	25	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.7126	G3	0.319	0.14	53	HCC	Primary	Matched	96	No	Yes	Moffitt Cancer Center	2Y	1.766666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9H3-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1642	G1	0.3117	0.01	165	HCC	Primary	Matched	95	No	Yes	Moffitt Cancer Center	2Y	5.7	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9H4-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.258	G2	0.3121	0.08	64	HCC	Primary	Matched	60	No	Yes	Moffitt Cancer Center	2Y	2.166666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9H5-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3411	G3	0.3103	0.06	71	HCC	Primary	Matched	18	No	Yes	Moffitt Cancer Center	2Y	2.433333333	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9H6-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2319	G2	0.306	0.02	52	HCC	Primary	Matched	153	No	Yes	Moffitt Cancer Center	2Y	1.766666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9H7-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1493	G2	0.3115	0.19	76	HCC	Primary	Matched	30	No	Yes	Moffitt Cancer Center	2Y	2.566666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9H8-01	15	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5459	G2	0.3146	0.59	64	HCC	Primary	Matched	72	No	Yes	Moffitt Cancer Center	2Y	2.2	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9H9-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2167	G2	0.3134	0.08	123	HCC	Primary	Matched	264	No	Yes	Moffitt Cancer Center	2Y	4.066666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9HA-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2773	G2	0.3156	0.14	140	HCC	Primary	Matched	133	No	Yes	Moffitt Cancer Center	2Y	4.666666667	Liver	Hepatocellular Carcinoma
+TCGA-2Y-A9HB-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1585	G2	0.315	0.01	67	HCC	Primary	Matched	17	No	Yes	Moffitt Cancer Center	2Y	2.266666667	Liver	Hepatocellular Carcinoma
+TCGA-3K-AAZ8-01	20	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1333	G1	0.3161	0.12	128	HCC	Primary	Matched	10	Yes	No	Boston Medical Center	3K	4.266666667	Liver	Hepatocellular Carcinoma
+TCGA-4R-AA8I-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1264	G2	0.5677	12.87	1057	HCC	Primary	Matched	112	No	Yes	Duke University	4R	35.66666667	Liver	Hepatocellular Carcinoma
+TCGA-5C-A9VG-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1707	G2	0.3039	0.02	128	HCC	Primary	Matched	41	Yes	No	Cureline	5C	4.266666667	Liver	Hepatocellular Carcinoma
+TCGA-5C-A9VH-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2059	G2	0.3141	0.09	95	HCC	Primary	Matched	9	Yes	No	Cureline	5C	3.166666667	Liver	Hepatocellular Carcinoma
+TCGA-5C-AAPD-01	12	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3876	G1	0.3017	0.07	67	HCC	Primary	Matched	48	Yes	No	Cureline	5C	2.233333333	Liver	Hepatocholangiocarcinoma (Mixed)
+TCGA-5R-AA1C-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3975	G2	0.3123	0.1	86	HCC	Primary	Matched	18	Yes	No	Proteogenex, Inc	5R	2.833333333	Liver	Hepatocellular Carcinoma
+TCGA-5R-AA1D-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0307	G3	0.3078	0	15	HCC	Primary	Matched	3	Yes	No	Proteogenex, Inc	5R	0.5	Liver	Hepatocellular Carcinoma
+TCGA-5R-AAAM-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1147	G2	0.3066	0.01	80	HCC	Primary	Matched	52	Yes	No	Proteogenex, Inc	5R	2.666666667	Liver	Hepatocellular Carcinoma
+TCGA-BC-4072-01		Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2371	G3			0	HCC	Primary	Matched	87	No	Yes	UNC	BC	0	Liver	Hepatocellular Carcinoma
+TCGA-BC-4073-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0745	G3	0.3433	0	124	HCC	Primary	Matched	418	No	Yes	UNC	BC	4.166666667	Liver	Hepatocellular Carcinoma
+TCGA-BC-A10Q-01	22	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.6242		0.3336	1.1	32	HCC	Primary	Matched	26	No	Yes	UNC	BC	1.133333333	Liver	Hepatocellular Carcinoma
+TCGA-BC-A10R-01	22	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.6186	G2	0.3318	0.18	107	HCC	Primary	Matched	442	No	Yes	UNC	BC	3.6	Liver	Hepatocellular Carcinoma
+TCGA-BC-A10S-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1657	G1	0.3311	0.01		HCC	Primary	Matched	9	No	Yes	UNC	BC		Liver	Hepatocellular Carcinoma
+TCGA-BC-A10T-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2625	G1	0.3293	0.12	65	HCC	Primary	Matched	439	No	Yes	UNC	BC	2.166666667	Liver	Hepatocellular Carcinoma
+TCGA-BC-A10U-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3133	G2	0.3603	0.24	127	HCC	Primary	Matched	30	No	Yes	UNC	BC	4.266666667	Liver	Hepatocellular Carcinoma
+TCGA-BC-A10W-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2378	G3	0.3102	0.2	93	HCC	Primary	Matched	31	No	Yes	UNC	BC	3.1	Liver	Hepatocellular Carcinoma
+TCGA-BC-A10X-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	1.0E-4	G2	0.3197	0	1	HCC	Primary	Matched	1	No	Yes	UNC	BC	0.033333333	Liver	Hepatocellular Carcinoma
+TCGA-BC-A10Y-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1971	G3	0.3127	0.21	54	HCC	Primary	Matched	331	No	Yes	UNC	BC	1.766666667	Liver	Hepatocellular Carcinoma
+TCGA-BC-A10Z-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2009	G2	0.311	0.25	167	HCC	Primary	Matched	318	No	Yes	UNC	BC	5.566666667	Liver	Hepatocellular Carcinoma
+TCGA-BC-A110-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0	G1	0.3146	0.01		HCC	Primary	Matched	0	No	Yes	UNC	BC		Liver	Hepatocellular Carcinoma
+TCGA-BC-A112-01	23	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1901	G2	0.3325	0.89	0	HCC	Primary	Matched	121	No	Yes	UNC	BC	0	Liver	Hepatocellular Carcinoma
+TCGA-BC-A216-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1978	G2	0.3503	0.02	64	HCC	Primary	Matched	474	No	Yes	UNC	BC	2.166666667	Liver	Hepatocellular Carcinoma
+TCGA-BC-A217-01	23	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5211	G3	0.3563	0.26	93	HCC	Primary	Matched	373	Yes	No	UNC	BC	3.133333333	Liver	Hepatocellular Carcinoma
+TCGA-BC-A3KF-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3866	G2	0.3536	0.08	82	HCC	Primary	Matched	67	Yes	No	UNC	BC	2.7	Liver	Hepatocellular Carcinoma
+TCGA-BC-A3KG-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3731	G3	0.3651	0.19	0	HCC	Primary	Matched	328	Yes	No	UNC	BC	0	Liver	Hepatocellular Carcinoma
+TCGA-BC-A5W4-01	16	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.7631	G3	0.2924	0.09	66	HCC	Primary	Matched	160	Yes	No	UNC	BC	2.233333333	Liver	Hepatocellular Carcinoma
+TCGA-BC-A69H-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4903	G3	0.3093	0.61	95	HCC	Primary	Matched	113	Yes	No	UNC	BC	3.2	Liver	Hepatocellular Carcinoma
+TCGA-BC-A69I-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1851	G1	0.3073	0.01		HCC	Primary	Matched	14	Yes	No	UNC	BC		Liver	Hepatocellular Carcinoma
+TCGA-BC-A8YO-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1144	G3	0.3106	0.21	65	HCC	Primary	Matched	306	Yes	No	UNC	BC	2.133333333	Liver	Hepatocellular Carcinoma
+TCGA-BD-A2L6-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1535	G2	0.3521	0.03	70	HCC	Primary	Matched	91	Yes	No	University of Pittsburgh	BD	2.333333333	Liver	Hepatocellular Carcinoma
+TCGA-BD-A3EP-01	25	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2651	G2	0.315	0.01	107	HCC	Primary	Matched	45	Yes	No	University of Pittsburgh	BD	3.566666667	Liver	Hepatocellular Carcinoma
+TCGA-BW-A5NO-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5445	G2	0.2913	0.15	110	HCC	Primary	Matched	317	Yes	No	St. Joseph's Medical Center-(MD)	BW	3.7	Liver	Hepatocellular Carcinoma
+TCGA-BW-A5NP-01		Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5159	G3	0.2912	0.94	71	HCC	Primary	Matched	91	Yes	No	St. Joseph's Medical Center-(MD)	BW	2.366666667	Liver	Hepatocellular Carcinoma
+TCGA-BW-A5NQ-01	34	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3205	G3	0.2776	1.07	91	HCC	Primary	Matched	15	Yes	No	St. Joseph's Medical Center-(MD)	BW	3	Liver	Hepatocellular Carcinoma
+TCGA-CC-5258-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2812	G2	0.3429	0.19	125	HCC	Primary	Matched	100	Yes	No	ILSBio	CC	4.233333333	Liver	Hepatocellular Carcinoma
+TCGA-CC-5259-01		Hepatobiliary Cancer	Hepatocellular Carcinoma		G2	0.3487	0.32	137	HCC	Primary	Matched	49	Yes	No	ILSBio	CC	4.6	Liver	Hepatocellular Carcinoma
+TCGA-CC-5260-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.262	G1	0.3442	0.06	49	HCC	Primary	Matched	98	Yes	No	ILSBio	CC	1.733333333	Liver	Hepatocellular Carcinoma
+TCGA-CC-5261-01	15	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3983	G2	0.3412	0.1	0	HCC	Primary	Matched	48	Yes	No	ILSBio	CC	0	Liver	Hepatocellular Carcinoma
+TCGA-CC-5262-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1458	G1	0.2969	0	125	HCC	Primary	Matched	15	Yes	No	ILSBio	CC	4.166666667	Liver	Hepatocellular Carcinoma
+TCGA-CC-5263-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3312	G1	0.341	0.14	111	HCC	Primary	Matched	328	Yes	No	ILSBio	CC	3.633333333	Liver	Hepatocellular Carcinoma
+TCGA-CC-5264-01	24	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.7745	G2	0.3633	0.92	89	HCC	Primary	Matched	78	Yes	No	ILSBio	CC	2.933333333	Liver	Hepatocellular Carcinoma
+TCGA-CC-A123-01		Hepatobiliary Cancer	Hepatocellular Carcinoma		G1	0.3471	0.38	75	HCC	Primary	Matched	27	Yes	No	ILSBio	CC	2.5	Liver	Hepatocellular Carcinoma
+TCGA-CC-A1HT-01	14	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1766	G3	0.3419	0.01	90	HCC	Primary	Matched	43	Yes	No	ILSBio	CC	3.066666667	Liver	Hepatocellular Carcinoma
+TCGA-CC-A3M9-01	23	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2876	G3	0.3522	0.02	124	HCC	Primary	Matched	157	Yes	No	ILSBio	CC	4.1	Liver	Hepatocellular Carcinoma
+TCGA-CC-A3MA-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3679	G2	0.3581	0.18	40	HCC	Primary	Matched	121	Yes	No	ILSBio	CC	1.4	Liver	Hepatocellular Carcinoma
+TCGA-CC-A3MB-01	20	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4977	G1	0.3656	0.24	71	HCC	Primary	Matched	88	Yes	No	ILSBio	CC	2.4	Liver	Hepatocellular Carcinoma
+TCGA-CC-A3MC-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2075	G2	0.3401	0.01	98	HCC	Primary	Matched	37	Yes	No	ILSBio	CC	3.3	Liver	Hepatocellular Carcinoma
+TCGA-CC-A5UC-01	19	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1929	G3	0.2889	0	49	HCC	Primary	Matched	40	Yes	No	ILSBio	CC	1.633333333	Liver	Hepatocellular Carcinoma
+TCGA-CC-A5UD-01	19	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.7883	G2	0.2982	0.23	185	HCC	Primary	Matched	23	Yes	No	ILSBio	CC	6.1	Liver	Hepatocellular Carcinoma
+TCGA-CC-A5UE-01	25	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4774	G2	0.3058	0.23	123	HCC	Primary	Matched	18	Yes	No	ILSBio	CC	4.066666667	Liver	Hepatocellular Carcinoma
+TCGA-CC-A7IE-01	20	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2316	G2	0.2995	0.05	153	HCC	Primary	Matched	51	Yes	No	ILSBio	CC	5.066666667	Liver	Hepatocellular Carcinoma
+TCGA-CC-A7IF-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3131	G1	0.3254	0.07	113	HCC	Primary	Matched	37	Yes	No	ILSBio	CC	3.8	Liver	Hepatocellular Carcinoma
+TCGA-CC-A7IG-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5148	G2	0.3336	0.58	134	HCC	Primary	Matched	63	Yes	No	ILSBio	CC	4.466666667	Liver	Hepatocellular Carcinoma
+TCGA-CC-A7IH-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2328	G1	0.3271	0.13	682	HCC	Primary	Matched	51	Yes	No	ILSBio	CC	22.9	Liver	Hepatocellular Carcinoma
+TCGA-CC-A7II-01	27	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3973	G3	0.344	0.05	145	HCC	Primary	Matched	89	Yes	No	ILSBio	CC	4.866666667	Liver	Hepatocellular Carcinoma
+TCGA-CC-A7IJ-01	12	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1956	G3	0.3401	0.03	143	HCC	Primary	Matched	214	Yes	No	ILSBio	CC	4.733333333	Liver	Hepatocellular Carcinoma
+TCGA-CC-A7IK-01	27	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.6191	G3	0.3247	0.08	286	HCC	Primary	Matched	49	Yes	No	ILSBio	CC	9.666666667	Liver	Hepatocellular Carcinoma
+TCGA-CC-A7IL-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5176	G1	0.3195	0.27	98	HCC	Primary	Matched	9	Yes	No	ILSBio	CC	3.3	Liver	Hepatocellular Carcinoma
+TCGA-CC-A8HT-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2075	G2	0.3074	0.02	184	HCC	Primary	Matched	88	Yes	No	ILSBio	CC	6.133333333	Liver	Hepatocellular Carcinoma
+TCGA-CC-A8HU-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.48	G3	0.317	0.54	84	HCC	Primary	Matched	53	Yes	No	ILSBio	CC	2.9	Liver	Hepatocellular Carcinoma
+TCGA-CC-A8HV-01	28	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.7783	G2	0.3219	0.27	126	HCC	Primary	Matched	371	Yes	No	ILSBio	CC	4.2	Liver	Hepatocellular Carcinoma
+TCGA-CC-A9FS-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3183	G2	0.3065	0.24	95	HCC	Primary	Matched	23	Yes	No	ILSBio	CC	3.266666667	Liver	Hepatocellular Carcinoma
+TCGA-CC-A9FU-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.6007	G2	0.317	0.71	49	HCC	Primary	Matched	54	Yes	No	ILSBio	CC	1.633333333	Liver	Hepatocellular Carcinoma
+TCGA-CC-A9FV-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0	G2	0.3171	0	17	HCC	Primary	Matched	0	Yes	No	ILSBio	CC	0.566666667	Liver	Hepatocellular Carcinoma
+TCGA-CC-A9FW-01	23	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.6828	G2	0.3243	0.5	134	HCC	Primary	Matched	54	Yes	No	ILSBio	CC	4.6	Liver	Hepatocellular Carcinoma
+TCGA-DD-A113-01	23	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.7339	G3	0.3098	0.34	135	HCC	Primary	Matched	83	No	Yes	Mayo Clinic - Rochester	DD	8.933333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A114-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.084	G3	0.3023	0.01	98	HCC	Primary	Matched	33	No	Yes	Mayo Clinic - Rochester	DD	6.566666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A115-01	10	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.23	G2	0.3201	0.07	80	HCC	Primary	Matched	268	No	Yes	Mayo Clinic - Rochester	DD	5.333333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A116-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2512	G3	0.3545	0.13	103	HCC	Primary	Matched	70	No	Yes	Mayo Clinic - Rochester	DD	3.466666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A118-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5316	G2	0.338	0.14	108	HCC	Primary	Matched	119	No	Yes	Mayo Clinic - Rochester	DD	3.633333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A119-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3521	G3	0.3353	0.15	64	HCC	Primary	Matched	34	No	Yes	Mayo Clinic - Rochester	DD	4.133333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A11A-01	15	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5544	G3	0.3948	0.29	122	HCC	Primary	Matched	238	No	Yes	Mayo Clinic - Rochester	DD	4.066666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A11B-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.222	G2	0.3423	0.15	44	HCC	Primary	Matched	20	No	Yes	Mayo Clinic - Rochester	DD	2.9	Liver	Hepatocellular Carcinoma
+TCGA-DD-A11C-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5277	G3	0.3466	0.17	80	HCC	Primary	Matched	564	No	Yes	Mayo Clinic - Rochester	DD	2.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A11D-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1784	G2	0.327	0	113	HCC	Primary	Matched	155	No	Yes	Mayo Clinic - Rochester	DD	3.766666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1E9-01	32	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2581	G2	0.3263	0.06	54	HCC	Primary	Matched	19	No	Yes	Mayo Clinic - Rochester	DD	1.8	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EA-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1247	G2	0.3684	0.75	0	HCC	Primary	Matched	13	No	Yes	Mayo Clinic - Rochester	DD	0	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EB-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1115	G2	0.3785	0.1	159	HCC	Primary	Matched	325	No	Yes	Mayo Clinic - Rochester	DD	5.3	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EC-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2165	G3	0.3143	0	22	HCC	Primary	Matched	92	No	Yes	Mayo Clinic - Rochester	DD	0.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1ED-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0	G1	0.3364	0.25	26	HCC	Primary	Matched	2	No	Yes	Mayo Clinic - Rochester	DD	0.9	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EE-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1807	G3	0.3886	0.14	664	HCC	Primary	Matched	16	No	Yes	Mayo Clinic - Rochester	DD	22.13333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EF-01	29	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3399	G3	0.3847	0.24	110	HCC	Primary	Matched	106	No	Yes	Mayo Clinic - Rochester	DD	3.633333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EG-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3121	G3	0.3805	0.1		HCC	Primary	Matched	51	No	Yes	Mayo Clinic - Rochester	DD		Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EH-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2424	G3	0.3689	0.16	38	HCC	Primary	Matched	12	No	Yes	Mayo Clinic - Rochester	DD	1.266666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EI-01	14	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2275	G2	0.3129	0.01	55	HCC	Primary	Matched	125	No	Yes	Mayo Clinic - Rochester	DD	1.833333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EJ-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3128	G2	0.3549	1.87	60	HCC	Primary	Matched	112	No	Yes	Mayo Clinic - Rochester	DD	1.966666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EK-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.153	G2	0.3609	0	63	HCC	Primary	Matched	256	No	Yes	Mayo Clinic - Rochester	DD	2.1	Liver	Hepatocellular Carcinoma
+TCGA-DD-A1EL-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3421	G3	0.3501	0.38	88	HCC	Primary	Matched	56	No	Yes	Mayo Clinic - Rochester	DD	2.9	Liver	Hepatocellular Carcinoma
+TCGA-DD-A39V-01	12	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3055	G3	0.3534	0	65	HCC	Primary	Matched	31	No	Yes	Mayo Clinic - Rochester	DD	2.266666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A39W-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0947	G2	0.3423	0	36	HCC	Primary	Matched	12	No	Yes	Mayo Clinic - Rochester	DD	1.2	Liver	Hepatocellular Carcinoma
+TCGA-DD-A39X-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.164	G2	0.359	0	65	HCC	Primary	Matched	59	No	Yes	Mayo Clinic - Rochester	DD	2.166666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A39Y-01	26	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4878	G3	0.3605	0.14	0	HCC	Primary	Matched	36	No	Yes	Mayo Clinic - Rochester	DD	0	Liver	Hepatocellular Carcinoma
+TCGA-DD-A39Z-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2778	G2	0.3421	0.11	71	HCC	Primary	Matched	11	No	Yes	Mayo Clinic - Rochester	DD	2.366666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A3A0-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2169	G2	0.3686	0.13		HCC	Primary	Matched	176	No	Yes	Mayo Clinic - Rochester	DD		Liver	Hepatocellular Carcinoma
+TCGA-DD-A3A1-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3078	G2	0.354	0	0	HCC	Primary	Matched	72	No	Yes	Mayo Clinic - Rochester	DD	0	Liver	Hepatocellular Carcinoma
+TCGA-DD-A3A2-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0572	G1	0.3568	0	70	HCC	Primary	Matched	11	No	Yes	Mayo Clinic - Rochester	DD	2.366666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A3A3-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1823	G2	0.3213	0.04	49	HCC	Primary	Matched	22	No	Yes	Mayo Clinic - Rochester	DD	1.633333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A3A4-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0564	G3	0.3243	0.05	39	HCC	Primary	Matched	17	No	Yes	Mayo Clinic - Rochester	DD	1.3	Liver	Hepatocellular Carcinoma
+TCGA-DD-A3A5-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1578	G2	0.3204	0.03	62	HCC	Primary	Matched	298	No	Yes	Mayo Clinic - Rochester	DD	2.066666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A3A6-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0	G2	0.3146	0	28	HCC	Primary	Matched	3	No	Yes	Mayo Clinic - Rochester	DD	0.933333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A3A7-01	29	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.453	G3	0.3235	0.4	117	HCC	Primary	Matched	170	No	Yes	Mayo Clinic - Rochester	DD	3.966666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A3A8-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.202	G2	0.3217	0	112	HCC	Primary	Matched	42	No	Yes	Mayo Clinic - Rochester	DD	3.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A3A9-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.6334	G2	0.2926	0.02	336	HCC	Primary	Matched	71	No	Yes	Mayo Clinic - Rochester	DD	11.26666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NA-01	13	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3096	G3	0.2855	0.03	27	HCC	Primary	Matched	153	No	Yes	Mayo Clinic - Rochester	DD	0.933333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NB-01	0	Hepatobiliary Cancer	Fibrolamellar Carcinoma	0.085	G2	0.2919	0	24	FLC	Primary	Matched	46	No	Yes	Mayo Clinic - Rochester	DD	0.8	Liver	Fibrolamellar Carcinoma
+TCGA-DD-A4ND-01	15	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3781	G3	0.2896	0	52	HCC	Primary	Matched	39	No	Yes	Mayo Clinic - Rochester	DD	1.766666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NE-01		Hepatobiliary Cancer	Hepatocellular Carcinoma		G3	0.2766	0.04	53	HCC	Primary	Matched	95	No	Yes	Mayo Clinic - Rochester	DD	1.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NF-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1189	G2	0.2693	0	116	HCC	Primary	Matched	6	No	Yes	Mayo Clinic - Rochester	DD	3.966666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NG-01		Hepatobiliary Cancer	Hepatocellular Carcinoma		G2	0.2732	0.14	73	HCC	Primary	Matched	18	No	Yes	Mayo Clinic - Rochester	DD	4.666666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NH-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3556	G3	0.2722	0	49	HCC	Primary	Matched	36	No	Yes	Mayo Clinic - Rochester	DD	3.266666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NI-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.134	G2	0.2699	0.01	151	HCC	Primary	Matched	8	No	Yes	Mayo Clinic - Rochester	DD	9.833333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NJ-01		Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2893	G2	0.2877	0.06	78	HCC	Primary	Matched	52	No	Yes	Mayo Clinic - Rochester	DD	5.166666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NK-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2598	G2	0.2747	0.04	75	HCC	Primary	Matched	8	No	Yes	Mayo Clinic - Rochester	DD	4.866666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NL-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0	G1	0.2681	0	29	HCC	Primary	Matched	0	No	Yes	Mayo Clinic - Rochester	DD	0.966666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NN-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4194	G3	0.2922	0.24	52	HCC	Primary	Matched	36	No	Yes	Mayo Clinic - Rochester	DD	3.366666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NO-01	19	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5991	G1	0.2909	0.01	57	HCC	Primary	Matched	44	No	Yes	Mayo Clinic - Rochester	DD	3.7	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NP-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0279	G3	0.2714	0	28	HCC	Primary	Matched	0	No	Yes	Mayo Clinic - Rochester	DD	1.766666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NQ-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2773	G3	0.2675	0.03	86	HCC	Primary	Matched	26	No	Yes	Mayo Clinic - Rochester	DD	5.666666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NR-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0672	G3	0.3092	0.01	62	HCC	Primary	Matched	59	No	Yes	Mayo Clinic - Rochester	DD	3.633333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NS-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0	G2	0.2978	0	57	HCC	Primary	Matched	1	No	Yes	Mayo Clinic - Rochester	DD	3.566666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A4NV-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1393	G1	0.296	0.1	127	HCC	Primary	Matched	19	No	Yes	Mayo Clinic - Rochester	DD	8.6	Liver	Hepatocellular Carcinoma
+TCGA-DD-A73A-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0908	G2	0.3054	0	89	HCC	Primary	Matched	63	No	Yes	Mayo Clinic - Rochester	DD	3	Liver	Hepatocellular Carcinoma
+TCGA-DD-A73B-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.8007	G2	0.3384	0.5	73	HCC	Primary	Matched	48	No	Yes	Mayo Clinic - Rochester	DD	2.466666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A73C-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0467	G1	0.3103	0	75	HCC	Primary	Matched	33	No	Yes	Mayo Clinic - Rochester	DD	2.566666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A73D-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2818	G1	0.3335	0.07	66	HCC	Primary	Matched	46	No	Yes	Mayo Clinic - Rochester	DD	2.233333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A73E-01	13	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2153	G1	0.3099	0.18	118	HCC	Primary	Matched	43	No	Yes	Mayo Clinic - Rochester	DD	3.933333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-A73F-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1192	G1	0.3073	0	68	HCC	Primary	Matched	402	No	Yes	Mayo Clinic - Rochester	DD	2.266666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-A73G-01	19	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.245	G3	0.3273	0.04	102	HCC	Primary	Matched	572	No	Yes	Mayo Clinic - Rochester	DD	3.433333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AA3A-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3894	G4	0.3067	0.36	44	HCC	Primary	Matched	96	No	Yes	Mayo Clinic - Rochester	DD	1.466666667	Liver	Hepatocholangiocarcinoma (Mixed)
+TCGA-DD-AAC8-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4637	G3	0.3125	0.12	507	HCC	Primary	Matched	25	No	Yes	Mayo Clinic - Rochester	DD	16.93333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAC9-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0915	G2	0.3	0.14	81	HCC	Primary	Matched	13	No	Yes	Mayo Clinic - Rochester	DD	2.7	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACA-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1647	G3	0.3295	0.11	106	HCC	Primary	Matched	36	No	Yes	Mayo Clinic - Rochester	DD	3.6	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACB-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4989	G3	0.3054	0.3	84	HCC	Primary	Matched	40	No	Yes	Mayo Clinic - Rochester	DD	2.766666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACC-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1642	G2	0.309	0.01	91	HCC	Primary	Matched	30	No	Yes	Mayo Clinic - Rochester	DD	3.033333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACD-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2273	G4	0.3067	0.01	86	HCC	Primary	Matched	188	No	Yes	Mayo Clinic - Rochester	DD	2.833333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACE-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5242	G3	0.3052	0.1	71	HCC	Primary	Matched	14	No	Yes	Mayo Clinic - Rochester	DD	2.433333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACF-01	10	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3061	G3	0.301	0.28	117	HCC	Primary	Matched	39	No	Yes	Mayo Clinic - Rochester	DD	3.933333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACG-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3885	G4	0.3266	0.25	92	HCC	Primary	Matched	94	No	Yes	Mayo Clinic - Rochester	DD	3.166666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACH-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3255	G3	0.3176	0.29	89	HCC	Primary	Matched	84	No	Yes	Mayo Clinic - Rochester	DD	2.933333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACI-01	25	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3924	G3	0.3049	0.03	333	HCC	Primary	Matched	167	No	Yes	Mayo Clinic - Rochester	DD	11.16666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACJ-01	10	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2839	G2	0.3133	0.09	88	HCC	Primary	Matched	13	No	Yes	Mayo Clinic - Rochester	DD	3	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACK-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0316	G2	0.3142	0.01	126	HCC	Primary	Matched	19	No	Yes	Mayo Clinic - Rochester	DD	4.233333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACL-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2305	G3	0.3086	0	273	HCC	Primary	Matched	147	No	Yes	Mayo Clinic - Rochester	DD	9.133333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACM-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.263	G3	0.3057	0.05	56	HCC	Primary	Matched	60	No	Yes	Mayo Clinic - Rochester	DD	1.9	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACN-01	14	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3863	G3	0.3192	0.09	44	HCC	Primary	Matched	30	No	Yes	Mayo Clinic - Rochester	DD	1.433333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACO-01	10	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3406	G3	0.3154	0.06	42	HCC	Primary	Matched	35	No	Yes	Mayo Clinic - Rochester	DD	1.366666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACP-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5549	G3	0.3259	0.31	171	HCC	Primary	Matched	38	No	Yes	Mayo Clinic - Rochester	DD	5.666666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACQ-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1466	G3	0.308	0.05	207	HCC	Primary	Matched	28	No	Yes	Mayo Clinic - Rochester	DD	6.9	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACS-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3606	G3	0.31	0.25	46	HCC	Primary	Matched	47	No	Yes	Mayo Clinic - Rochester	DD	1.5	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACT-01	12	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2785	G2	0.3024	0	180	HCC	Primary	Matched	26	No	Yes	Mayo Clinic - Rochester	DD	6	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACU-01	25	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.7387	G3	0.3122	0.12	113	HCC	Primary	Matched	43	No	Yes	Mayo Clinic - Rochester	DD	3.8	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACV-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.343	G3	0.3129	0.48	104	HCC	Primary	Matched	79	No	Yes	Mayo Clinic - Rochester	DD	3.466666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACW-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2117	G3	0.3071	0.16	48	HCC	Primary	Matched	12	No	Yes	Mayo Clinic - Rochester	DD	1.633333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACX-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1116	G3	0.3149	0.03	115	HCC	Primary	Matched	37	No	Yes	Mayo Clinic - Rochester	DD	3.8	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACY-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2393	G3	0.3102	0.09	81	HCC	Primary	Matched	119	No	Yes	Mayo Clinic - Rochester	DD	2.766666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AACZ-01	23	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3951	G4	0.3038	0.09	156	HCC	Primary	Matched	120	No	Yes	Mayo Clinic - Rochester	DD	5.233333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAD0-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1663	G2	0.3064	0.11	103	HCC	Primary	Matched	45	No	Yes	Mayo Clinic - Rochester	DD	3.433333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAD1-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1423	G4	0.2941	0	112	HCC	Primary	Matched	46	No	Yes	Mayo Clinic - Rochester	DD	3.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAD2-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1233	G2	0.3019	0	76	HCC	Primary	Matched	23	No	Yes	Mayo Clinic - Rochester	DD	2.533333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAD3-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2379	G2	0.3052	0.01	66	HCC	Primary	Matched	51	No	Yes	Mayo Clinic - Rochester	DD	2.2	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAD5-01	16	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4696	G3	0.3132	0.08	121	HCC	Primary	Matched	111	No	Yes	Mayo Clinic - Rochester	DD	4.066666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAD6-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2301	G3	0.3111	0.16	94	HCC	Primary	Matched	45	No	Yes	Mayo Clinic - Rochester	DD	3.166666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAD8-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.6672	G2	0.3233	0.31	110	HCC	Primary	Matched	39	No	Yes	Mayo Clinic - Rochester	DD	3.7	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADA-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2453	G3	0.2977	0.05	113	HCC	Primary	Matched	56	No	Yes	Mayo Clinic - Rochester	DD	3.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADB-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2742	G4	0.3071	0.02	112	HCC	Primary	Matched	49	No	Yes	Mayo Clinic - Rochester	DD	3.766666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADC-01	10	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3904	G3	0.3063	0.2	81	HCC	Primary	Matched	197	No	Yes	Mayo Clinic - Rochester	DD	2.7	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADD-01	16	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4162	G4	0.3202	0.54	82	HCC	Primary	Matched	54	No	Yes	Mayo Clinic - Rochester	DD	2.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADE-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0727	G4	0.3149	0	110	HCC	Primary	Matched	33	No	Yes	Mayo Clinic - Rochester	DD	3.766666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADF-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.377	G4	0.3219	0.22	211	HCC	Primary	Matched	411	No	Yes	Mayo Clinic - Rochester	DD	7.1	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADG-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1796	G3	0.3036	0.02	162	HCC	Primary	Matched	29	No	Yes	Mayo Clinic - Rochester	DD	5.366666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADI-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2673	G3	0.3081	0.02	106	HCC	Primary	Matched	19	No	Yes	Mayo Clinic - Rochester	DD	3.533333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADJ-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1709	G3	0.3066	0.02	60	HCC	Primary	Matched	268	No	Yes	Mayo Clinic - Rochester	DD	2	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADK-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3122	G3	0.3133	0	56	HCC	Primary	Matched	15	No	Yes	Mayo Clinic - Rochester	DD	1.933333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADL-01	14	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.45	G4	0.321	0.22	122	HCC	Primary	Matched	89	No	Yes	Mayo Clinic - Rochester	DD	4.1	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADM-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2796	G3	0.3021	0.04	168	HCC	Primary	Matched	77	No	Yes	Mayo Clinic - Rochester	DD	5.633333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADN-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3785	G4	0.3148	0.1	105	HCC	Primary	Matched	184	No	Yes	Mayo Clinic - Rochester	DD	3.5	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADO-01	20	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4877	G3	0.3211	0.12	199	HCC	Primary	Matched	158	No	Yes	Mayo Clinic - Rochester	DD	6.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADP-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2758	G3	0.3084	0.12	98	HCC	Primary	Matched	61	No	Yes	Mayo Clinic - Rochester	DD	3.3	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADQ-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1948	G3	0.3033	0.24	116	HCC	Primary	Matched	50	No	Yes	Mayo Clinic - Rochester	DD	3.866666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADR-01		Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2706	G3	0.2942	0.02	86	HCC	Primary	Matched	24	No	Yes	Mayo Clinic - Rochester	DD	2.866666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADS-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.088	G2	0.3013	0.01	132	HCC	Primary	Matched	29	No	Yes	Mayo Clinic - Rochester	DD	4.5	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADU-01	26	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.8187	G3	0.3074	0.08	83	HCC	Primary	Matched	29	No	Yes	Mayo Clinic - Rochester	DD	2.8	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADV-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3895	G3	0.3172	0.24	95	HCC	Primary	Matched	94	No	Yes	Mayo Clinic - Rochester	DD	3.133333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADW-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3124	G3	0.3061	0.27	45	HCC	Primary	Matched	41	No	Yes	Mayo Clinic - Rochester	DD	1.5	Liver	Hepatocellular Carcinoma
+TCGA-DD-AADY-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.9251	G2	0.3265	0.44	48	HCC	Primary	Matched	48	No	Yes	Mayo Clinic - Rochester	DD	1.6	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAE0-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4877	G4	0.3181	0.16	57	HCC	Primary	Matched	41	No	Yes	Mayo Clinic - Rochester	DD	1.966666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAE1-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2471	G3	0.3208	0.09	46	HCC	Primary	Matched	13	No	Yes	Mayo Clinic - Rochester	DD	1.533333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAE2-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1782	G3	0.3069	0.07	82	HCC	Primary	Matched	319	No	Yes	Mayo Clinic - Rochester	DD	2.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAE3-01	27	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.423	G2	0.3321	0.32	150	HCC	Primary	Matched	107	No	Yes	Mayo Clinic - Rochester	DD	5.066666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAE4-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1112	G1	0.302	0.06	57	HCC	Primary	Matched	309	No	Yes	Mayo Clinic - Rochester	DD	1.9	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAE6-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4515	G2	0.3095	0.25	72	HCC	Primary	Matched	72	No	Yes	Mayo Clinic - Rochester	DD	2.366666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAE7-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0475	G2	0.3031	0.03	237	HCC	Primary	Matched	17	No	Yes	Mayo Clinic - Rochester	DD	8	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAE8-01	12	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3631	G3	0.2974	0	62	HCC	Primary	Matched	22	No	Yes	Mayo Clinic - Rochester	DD	2.066666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAE9-01	14	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3412	G3	0.3168	0.54	97	HCC	Primary	Matched	47	No	Yes	Mayo Clinic - Rochester	DD	3.266666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAEA-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2518	G3	0.3127	0.02	168	HCC	Primary	Matched	58	No	Yes	Mayo Clinic - Rochester	DD	5.566666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAEB-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1446	G2	0.3158	0.06	119	HCC	Primary	Matched	27	No	Yes	Mayo Clinic - Rochester	DD	4.066666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAED-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3957	G3	0.3053	0.28	59	HCC	Primary	Matched	54	No	Yes	Mayo Clinic - Rochester	DD	2.033333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAEE-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3174	G4	0.3244	0.38	71	HCC	Primary	Matched	86	No	Yes	Mayo Clinic - Rochester	DD	2.433333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAEG-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2881	G3	0.3134	0.18	104	HCC	Primary	Matched	144	No	Yes	Mayo Clinic - Rochester	DD	3.533333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAEH-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2091	G2	0.3141	0	82	HCC	Primary	Matched	30	No	Yes	Mayo Clinic - Rochester	DD	2.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAEI-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1529	G2	0.3063	0.02	113	HCC	Primary	Matched	100	No	Yes	Mayo Clinic - Rochester	DD	3.8	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAEK-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4197	G3	0.3257	0	79	HCC	Primary	Matched	57	No	Yes	Mayo Clinic - Rochester	DD	2.633333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAVP-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2356	G1	0.3157	0.05	72	HCC	Primary	Matched	37	No	Yes	Mayo Clinic - Rochester	DD	2.433333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAVQ-01	14	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2383	G2	0.3136	0	52	HCC	Primary	Matched	13	No	Yes	Mayo Clinic - Rochester	DD	1.733333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAVR-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1538	G2	0.3121	0	59	HCC	Primary	Matched	149	No	Yes	Mayo Clinic - Rochester	DD	1.966666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAVS-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3452	G2	0.3116	0.08	49	HCC	Primary	Matched	22	No	Yes	Mayo Clinic - Rochester	DD	1.6	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAVU-01	33	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.8507	G2	0.3137	0.23	55	HCC	Primary	Matched	54	No	Yes	Mayo Clinic - Rochester	DD	1.833333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAVV-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3511	G3	0.3079	0.06	131	HCC	Primary	Matched	138	No	Yes	Mayo Clinic - Rochester	DD	4.3	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAVW-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3441	G2	0.321	1.31	36	HCC	Primary	Matched	98	No	Yes	Mayo Clinic - Rochester	DD	1.2	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAVX-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1242	G2	0.3132	0.04	63	HCC	Primary	Matched	23	No	Yes	Mayo Clinic - Rochester	DD	2.133333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAVY-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2905	G2	0.3078	0.09	84	HCC	Primary	Matched	22	No	Yes	Mayo Clinic - Rochester	DD	2.8	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAVZ-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2312	G2	0.3061	0.04	38	HCC	Primary	Matched	39	No	Yes	Mayo Clinic - Rochester	DD	1.233333333	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAW0-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.286	G2	0.3126	0.05	89	HCC	Primary	Matched	32	No	Yes	Mayo Clinic - Rochester	DD	2.966666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAW1-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1121	G2	0.3089	0.03	103	HCC	Primary	Matched	13	No	Yes	Mayo Clinic - Rochester	DD	3.466666667	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAW2-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2854	G2	0.3075	0.12	116	HCC	Primary	Matched	27	No	Yes	Mayo Clinic - Rochester	DD	3.8	Liver	Hepatocellular Carcinoma
+TCGA-DD-AAW3-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2248	G2	0.325	0.19	87	HCC	Primary	Matched	17	No	Yes	Mayo Clinic - Rochester	DD	2.933333333	Liver	Hepatocellular Carcinoma
+TCGA-ED-A459-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4161	G2	0.2885	0.09	220	HCC	Primary	Matched	214	Yes	No	Asterand	ED	7.333333333	Liver	Hepatocellular Carcinoma
+TCGA-ED-A4XI-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0186	G3	0.2791	0	139	HCC	Primary	Matched	36	Yes	No	Asterand	ED	4.666666667	Liver	Hepatocellular Carcinoma
+TCGA-ED-A5KG-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	1.0E-4	G2	0.2697	0	16	HCC	Primary	Matched	5	Yes	No	Asterand	ED	0.533333333	Liver	Hepatocellular Carcinoma
+TCGA-ED-A627-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	1.0E-4	G2	0.3023	0	1	HCC	Primary	Matched	0	Yes	No	Asterand	ED	0.066666667	Liver	Hepatocellular Carcinoma
+TCGA-ED-A66X-01	22	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2912	G3	0.3073	0.01	44	HCC	Primary	Matched	46	Yes	No	Asterand	ED	1.5	Liver	Hepatocellular Carcinoma
+TCGA-ED-A66Y-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1845	G3	0.3007	0.07	89	HCC	Primary	Matched	22	Yes	No	Asterand	ED	3	Liver	Hepatocellular Carcinoma
+TCGA-ED-A7PX-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3022	G3	0.3243	0.12	28	HCC	Primary	Matched	207	Yes	No	Asterand	ED	0.966666667	Liver	Hepatocellular Carcinoma
+TCGA-ED-A7PY-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3611	G3	0.3165	0.29	29	HCC	Primary	Matched	12	Yes	No	Asterand	ED	0.966666667	Liver	Hepatocellular Carcinoma
+TCGA-ED-A7PZ-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5331	G2	0.319	0.63	242	HCC	Primary	Matched	45	Yes	No	Asterand	ED	8.1	Liver	Hepatocellular Carcinoma
+TCGA-ED-A7XO-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2117	G2	0.3321	0	57	HCC	Primary	Matched	122	Yes	No	Asterand	ED	1.9	Liver	Hepatocellular Carcinoma
+TCGA-ED-A7XP-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2537	G3	0.3289	0.28	58	HCC	Primary	Matched	33	Yes	No	Asterand	ED	2	Liver	Hepatocellular Carcinoma
+TCGA-ED-A82E-01	23	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.6435	G2	0.3153	0.27	29	HCC	Primary	Matched	83	Yes	No	Asterand	ED	0.933333333	Liver	Hepatocellular Carcinoma
+TCGA-ED-A8O5-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2573	G3	0.299	0.17	110	HCC	Primary	Matched	35	Yes	No	Asterand	ED	3.7	Liver	Hepatocellular Carcinoma
+TCGA-ED-A8O6-01	25	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5375	G3	0.3076	0.25	63	HCC	Primary	Matched	38	Yes	No	Asterand	ED	2.1	Liver	Hepatocellular Carcinoma
+TCGA-ED-A97K-01	31	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3209	G2	0.3175	0.07	47	HCC	Primary	Matched	134	Yes	No	Asterand	ED	1.566666667	Liver	Hepatocholangiocarcinoma (Mixed)
+TCGA-EP-A12J-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1981	G1	0.3527	0.09	51	HCC	Primary	Matched	35	Yes	No	Christiana Healthcare	EP	1.7	Liver	Hepatocellular Carcinoma
+TCGA-EP-A26S-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0845	G2	0.3637	0	89	HCC	Primary	Matched	16	Yes	No	Christiana Healthcare	EP	5.766666667	Liver	Hepatocellular Carcinoma
+TCGA-EP-A2KA-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2531	G3	0.3269	0.07	102	HCC	Primary	Matched	1068	Yes	No	Christiana Healthcare	EP	3.466666667	Liver	Hepatocellular Carcinoma
+TCGA-EP-A2KB-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.6426	G2	0.3357	0.72	77	HCC	Primary	Matched	12	Yes	No	Christiana Healthcare	EP	2.566666667	Liver	Hepatocellular Carcinoma
+TCGA-EP-A2KC-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3777	G3	0.3229	0.05	81	HCC	Primary	Matched	11	Yes	No	Christiana Healthcare	EP	2.633333333	Liver	Hepatocellular Carcinoma
+TCGA-EP-A3JL-01	31	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1861	G2	0.3336	0.01	87	HCC	Primary	Matched	9	Yes	No	Christiana Healthcare	EP	2.866666667	Liver	Hepatocellular Carcinoma
+TCGA-EP-A3RK-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2332	G2	0.3491	0.01	53	HCC	Primary	Matched	29	Yes	No	Christiana Healthcare	EP	3.466666667	Liver	Hepatocellular Carcinoma
+TCGA-ES-A2HS-01	25	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3659	G2	0.3273	0.15	65	HCC	Primary	Matched	31	No	Yes	University of Florida	ES	2.2	Liver	Hepatocellular Carcinoma
+TCGA-ES-A2HT-01	38	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1469	G2	0.3186	0.05	67	HCC	Primary	Matched	7	No	Yes	University of Florida	ES	2.266666667	Liver	Hepatocellular Carcinoma
+TCGA-FV-A23B-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2019		0.3684	0.06	109	HCC	Primary	Matched	56	No	Yes	International Genomics Consortium	FV	3.6	Liver	Hepatocellular Carcinoma
+TCGA-FV-A2QQ-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1404	G2	0.3218	0	116	HCC	Primary	Matched	35	Yes	No	International Genomics Consortium	FV	3.9	Liver	Hepatocellular Carcinoma
+TCGA-FV-A2QR-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2591	G1	0.3635	0.11	103	HCC	Primary	Matched	58	No	Yes	International Genomics Consortium	FV	3.533333333	Liver	Hepatocellular Carcinoma
+TCGA-FV-A3I0-01	19	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3727	G2	0.3429	0.31	77	HCC	Primary	Matched	63	Yes	No	International Genomics Consortium	FV	2.6	Liver	Hepatocholangiocarcinoma (Mixed)
+TCGA-FV-A3I1-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.263	G2	0.3189	0.09	69	HCC	Primary	Matched	78	Yes	No	International Genomics Consortium	FV	4.633333333	Liver	Hepatocellular Carcinoma
+TCGA-FV-A3R2-01	14	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4018		0.3241	0.01	73	HCC	Primary	Matched	45	No	Yes	International Genomics Consortium	FV	2.433333333	Liver	Hepatocellular Carcinoma
+TCGA-FV-A3R3-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0882	G2	0.3297	0	53	HCC	Primary	Matched	20	Yes	No	International Genomics Consortium	FV	1.766666667	Liver	Hepatocellular Carcinoma
+TCGA-FV-A495-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.194	G2	0.2816	0	103	HCC	Primary	Matched	247	Yes	No	International Genomics Consortium	FV	6.766666667	Liver	Hepatocellular Carcinoma
+TCGA-FV-A496-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4553	G2	0.2946	0.12	117	HCC	Primary	Matched	466	Yes	No	International Genomics Consortium	FV	7.666666667	Liver	Hepatocellular Carcinoma
+TCGA-FV-A4ZP-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5099	G2	0.2818	0.13	89	HCC	Primary	Matched	124	No	Yes	International Genomics Consortium	FV	2.966666667	Liver	Hepatocellular Carcinoma
+TCGA-FV-A4ZQ-01	12	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2896	G2	0.2793	0.01	71	HCC	Primary	Matched	27	Yes	No	International Genomics Consortium	FV	2.4	Liver	Hepatocellular Carcinoma
+TCGA-G3-A25S-01	27	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5349	G2	0.3836	0.29	141	HCC	Primary	Matched	129	No	Yes	Alberta Health Services	G3	4.6	Liver	Hepatocellular Carcinoma
+TCGA-G3-A25T-01	19	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.27	G2	0.4072	0.12	66	HCC	Primary	Matched	26	No	Yes	Alberta Health Services	G3	2.233333333	Liver	Hepatocellular Carcinoma
+TCGA-G3-A25U-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.247	G3	0.3739	0.2	95	HCC	Primary	Matched	41	No	Yes	Alberta Health Services	G3	3.133333333	Liver	Hepatocellular Carcinoma
+TCGA-G3-A25V-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0017	G2	0.3701	0	74	HCC	Primary	Matched	9	No	Yes	Alberta Health Services	G3	2.433333333	Liver	Hepatocellular Carcinoma
+TCGA-G3-A25W-01	9	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1229	G2	0.3763	0	97	HCC	Primary	Matched	30	No	Yes	Alberta Health Services	G3	3.3	Liver	Hepatocellular Carcinoma
+TCGA-G3-A25X-01		Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4083	G3			0	HCC	Primary	Matched	541	No	Yes	Alberta Health Services	G3	0	Liver	Hepatocellular Carcinoma
+TCGA-G3-A25Y-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2465	G3	0.3712	0.01	94	HCC	Primary	Matched	39	No	Yes	Alberta Health Services	G3	3.166666667	Liver	Hepatocellular Carcinoma
+TCGA-G3-A25Z-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3118	G2	0.3668	0.02	87	HCC	Primary	Matched	67	No	Yes	Alberta Health Services	G3	2.9	Liver	Hepatocellular Carcinoma
+TCGA-G3-A3CH-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1347	G2	0.323	0	37	HCC	Primary	Matched	20	No	Yes	Alberta Health Services	G3	1.233333333	Liver	Hepatocellular Carcinoma
+TCGA-G3-A3CI-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0164	G2	0.3464	0	17	HCC	Primary	Matched	10	No	Yes	Alberta Health Services	G3	0.566666667	Liver	Hepatocellular Carcinoma
+TCGA-G3-A3CJ-01	36	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.149	G2	0.3637	0.18		HCC	Primary	Matched	29	No	Yes	Alberta Health Services	G3		Liver	Hepatocellular Carcinoma
+TCGA-G3-A3CK-01	1	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0781	G2	0.3516	0	208	HCC	Primary	Matched	19	No	Yes	Alberta Health Services	G3	6.9	Liver	Hepatocellular Carcinoma
+TCGA-G3-A5SI-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3209	G2	0.2795	0.15	36	HCC	Primary	Matched	29	No	Yes	Alberta Health Services	G3	1.166666667	Liver	Hepatocellular Carcinoma
+TCGA-G3-A5SJ-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2052	G2	0.2509	0.09	98	HCC	Primary	Matched	39	No	Yes	Alberta Health Services	G3	3.266666667	Liver	Hepatocellular Carcinoma
+TCGA-G3-A5SK-01		Hepatobiliary Cancer	Hepatocellular Carcinoma		G1	0.2661	0	89	HCC	Primary	Matched	6	No	Yes	Alberta Health Services	G3	2.966666667	Liver	Hepatocellular Carcinoma
+TCGA-G3-A5SL-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.174	G2	0.273	0.04	125	HCC	Primary	Matched	32	Yes	No	Alberta Health Services	G3	4.2	Liver	Hepatocellular Carcinoma
+TCGA-G3-A5SM-01	22	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1591	G3	0.2818	0	111	HCC	Primary	Matched	30	Yes	No	Alberta Health Services	G3	3.733333333	Liver	Hepatocellular Carcinoma
+TCGA-G3-A6UC-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2504	G2	0.3235	0.07	113	HCC	Primary	Matched	54	Yes	No	Alberta Health Services	G3	3.8	Liver	Hepatocellular Carcinoma
+TCGA-G3-A7M5-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2592	G2	0.3255	0.22	168	HCC	Primary	Matched	22	Yes	No	Alberta Health Services	G3	5.566666667	Liver	Hepatocellular Carcinoma
+TCGA-G3-A7M6-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2587	G3	0.3243	0.18	83	HCC	Primary	Matched	50	Yes	No	Alberta Health Services	G3	2.8	Liver	Hepatocellular Carcinoma
+TCGA-G3-A7M7-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0496	G1	0.3332	0.01	67	HCC	Primary	Matched	60	Yes	No	Alberta Health Services	G3	2.233333333	Liver	Hepatocellular Carcinoma
+TCGA-G3-A7M8-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0	G1	0.3194	0	23	HCC	Primary	Matched	0	Yes	No	Alberta Health Services	G3	0.766666667	Liver	Hepatocellular Carcinoma
+TCGA-G3-A7M9-01	16	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4412	G2	0.3337	0.04	123	HCC	Primary	Matched	115	Yes	No	Alberta Health Services	G3	4.133333333	Liver	Hepatocellular Carcinoma
+TCGA-G3-AAUZ-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2024	G2	0.3099	0.07	81	HCC	Primary	Matched	153	Yes	No	Alberta Health Services	G3	2.733333333	Liver	Hepatocellular Carcinoma
+TCGA-G3-AAV0-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1766	G2	0.3056	0.01	162	HCC	Primary	Matched	20	Yes	No	Alberta Health Services	G3	5.466666667	Liver	Hepatocellular Carcinoma
+TCGA-G3-AAV1-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3641	G3	0.3086	0.08	50	HCC	Primary	Matched	38	Yes	No	Alberta Health Services	G3	1.7	Liver	Hepatocellular Carcinoma
+TCGA-G3-AAV2-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2133	G1	0.3161	0.04	46	HCC	Primary	Matched	14	Yes	No	Alberta Health Services	G3	1.533333333	Liver	Hepatocellular Carcinoma
+TCGA-G3-AAV3-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1787	G2	0.3144	0.01	82	HCC	Primary	Matched	22	Yes	No	Alberta Health Services	G3	2.8	Liver	Hepatocellular Carcinoma
+TCGA-G3-AAV4-01	12	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3684	G1	0.3096	0.1	105	HCC	Primary	Matched	38	Yes	No	Alberta Health Services	G3	3.533333333	Liver	Hepatocellular Carcinoma
+TCGA-G3-AAV5-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2757	G2	0.3137	0.01	76	HCC	Primary	Matched	17	Yes	No	Alberta Health Services	G3	2.566666667	Liver	Hepatocellular Carcinoma
+TCGA-G3-AAV6-01	24	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.6912	G3	0.3175	0.24	65	HCC	Primary	Matched	36	Yes	No	Alberta Health Services	G3	2.2	Liver	Hepatocellular Carcinoma
+TCGA-G3-AAV7-01	12	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5017	G2	0.3102	0.06	75	HCC	Primary	Matched	50	Yes	No	Alberta Health Services	G3	2.566666667	Liver	Hepatocellular Carcinoma
+TCGA-GJ-A3OU-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1474	G2	0.3092	0.01	56	HCC	Primary	Matched	30	Yes	No	ABS - IUPUI	GJ	1.9	Liver	Hepatocellular Carcinoma
+TCGA-GJ-A6C0-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1557	G2	0.2974	0.01	81	HCC	Primary	Matched	484	Yes	No	ABS - IUPUI	GJ	4.5	Liver	Hepatocellular Carcinoma
+TCGA-GJ-A9DB-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1389	G2	0.3197	0.03	74	HCC	Primary	Matched	62	Yes	No	ABS - IUPUI	GJ	2.533333333	Liver	Hepatocellular Carcinoma
+TCGA-HP-A5MZ-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0821	G2	0.2766	0	46	HCC	Primary	Matched	2	No	Yes	Ontario Institute for Cancer Research (OICR)	HP	1.533333333	Liver	Hepatocellular Carcinoma
+TCGA-HP-A5N0-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1655		0.2731	0.02	128	HCC	Primary	Matched	56	No	Yes	Ontario Institute for Cancer Research (OICR)	HP	4.3	Liver	Hepatocellular Carcinoma
+TCGA-K7-A5RF-01		Hepatobiliary Cancer	Hepatocellular Carcinoma	1.0E-4	G1	0.2874	0	53	HCC	Primary	Matched	2	Yes	No	ABS - Lahey Clinic	K7	3.466666667	Liver	Hepatocellular Carcinoma
+TCGA-K7-A5RG-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.001	G1	0.272	0	124	HCC	Primary	Matched	16	Yes	No	ABS - Lahey Clinic	K7	8.266666667	Liver	Hepatocellular Carcinoma
+TCGA-K7-A6G5-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1482	G2	0.3178	0	75	HCC	Primary	Matched	25	Yes	No	ABS - Lahey Clinic	K7	2.466666667	Liver	Hepatocellular Carcinoma
+TCGA-K7-AAU7-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1306	G2	0.3082	0.01	63	HCC	Primary	Matched	49	Yes	No	ABS - Lahey Clinic	K7	2.166666667	Liver	Hepatocholangiocarcinoma (Mixed)
+TCGA-KR-A7K0-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0403	G1	0.3179	0	83	HCC	Primary	Matched	14	No	Yes	University Of Michigan	KR	2.8	Liver	Hepatocellular Carcinoma
+TCGA-KR-A7K2-01	20	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5762	G1	0.3263	0.04	45	HCC	Primary	Matched	13	No	Yes	University Of Michigan	KR	1.5	Liver	Hepatocholangiocarcinoma (Mixed)
+TCGA-KR-A7K7-01	20	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5096	G1	0.3609	0.03	61	HCC	Primary	Matched	15	No	Yes	University Of Michigan	KR	2.066666667	Liver	Hepatocellular Carcinoma
+TCGA-KR-A7K8-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1573	G1	0.3659	0	49	HCC	Primary	Matched	1023	No	Yes	University Of Michigan	KR	1.666666667	Liver	Hepatocellular Carcinoma
+TCGA-LG-A6GG-01	16	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4875	G2	0.2933	0.36	178	HCC	Primary	Matched	129	Yes	No	Hartford Hospital	LG	11.93333333	Liver	Hepatocellular Carcinoma
+TCGA-LG-A9QC-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2744	G2	0.3293	0.07	44	HCC	Primary	Matched	34	Yes	No	Hartford Hospital	LG	1.466666667	Liver	Hepatocellular Carcinoma
+TCGA-LG-A9QD-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0995	G2	0.2994	0.01	98	HCC	Primary	Matched	3	Yes	No	Hartford Hospital	LG	3.3	Liver	Hepatocellular Carcinoma
+TCGA-MI-A75C-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1383	G3	0.3243	0.29	107	HCC	Primary	Matched	16	No	Yes	BLN - Baylor	MI	3.6	Liver	Hepatocellular Carcinoma
+TCGA-MI-A75E-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1609	G2	0.3272	0	117	HCC	Primary	Matched	29	No	Yes	BLN - Baylor	MI	3.933333333	Liver	Hepatocellular Carcinoma
+TCGA-MI-A75G-01	14	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4654	G2	0.3284	0.03	225	HCC	Primary	Matched	59	No	Yes	BLN - Baylor	MI	7.6	Liver	Hepatocellular Carcinoma
+TCGA-MI-A75H-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1588		0.3159	0.01	121	HCC	Primary	Matched	15	No	Yes	BLN - Baylor	MI	4.066666667	Liver	Hepatocellular Carcinoma
+TCGA-MI-A75I-01	11	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3185	G1	0.3314	0.06	158	HCC	Primary	Matched	49	No	Yes	BLN - Baylor	MI	5.266666667	Liver	Hepatocellular Carcinoma
+TCGA-MR-A520-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0	G1	0.2823	0	17	HCC	Primary	Matched	1	Yes	No	University of Minnesota	MR	0.566666667	Liver	Hepatocellular Carcinoma
+TCGA-MR-A8JO-01	6	Hepatobiliary Cancer	Fibrolamellar Carcinoma	0.1188	G3	0.3208	0	33	FLC	Primary	Matched	30	Yes	No	University of Minnesota	MR	1.1	Liver	Fibrolamellar Carcinoma
+TCGA-NI-A4U2-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1269	G1	0.2745	0.04	111	HCC	Primary	Matched	100	No	Yes	Roswell Park	NI	7.3	Liver	Hepatocellular Carcinoma
+TCGA-NI-A8LF-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4651	G3	0.3239	0.05	93	HCC	Primary	Matched	374	No	Yes	Roswell Park	NI	3.133333333	Liver	Hepatocellular Carcinoma
+TCGA-O8-A75V-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2609	G2	0.3284	0.07	68	HCC	Primary	Matched	29	Yes	No	Saint Mary's Health Care	O8	2.3	Liver	Hepatocellular Carcinoma
+TCGA-PD-A5DF-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1803	G2	0.2876	0.02	42	HCC	Primary	Matched	288	No	Yes	Fox Chase	PD	1.4	Liver	Hepatocellular Carcinoma
+TCGA-QA-A7B7-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2544	G2	0.3269	0.34	79	HCC	Primary	Matched	153	Yes	No	Emory University	QA	2.6	Liver	Hepatocellular Carcinoma
+TCGA-RC-A6M3-01	23	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4863	G3	0.3388	0.11	73	HCC	Primary	Matched	246	No	Yes	University of Utah	RC	2.4	Liver	Hepatocellular Carcinoma
+TCGA-RC-A6M4-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4046	G2	0.3354	0.07	157	HCC	Primary	Matched	75	No	Yes	University of Utah	RC	5.266666667	Liver	Hepatocellular Carcinoma
+TCGA-RC-A6M5-01	15	Hepatobiliary Cancer	Fibrolamellar Carcinoma	0.028	G2	0.3182	0	23	FLC	Primary	Matched	43	No	Yes	University of Utah	RC	0.766666667	Liver	Fibrolamellar Carcinoma
+TCGA-RC-A6M6-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2793	G3	0.3305	0.29	180	HCC	Primary	Matched	239	No	Yes	University of Utah	RC	6.033333333	Liver	Hepatocellular Carcinoma
+TCGA-RC-A7S9-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1606	G3	0.3143	0.03	56	HCC	Primary	Matched	40	Yes	No	University of Utah	RC	1.866666667	Liver	Hepatocellular Carcinoma
+TCGA-RC-A7SB-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1806	G2	0.3267	0.01	56	HCC	Primary	Matched	54	Yes	No	University of Utah	RC	1.9	Liver	Hepatocellular Carcinoma
+TCGA-RC-A7SF-01	10	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.246	G2	0.3288	0.03	76	HCC	Primary	Matched	74	Yes	No	University of Utah	RC	2.533333333	Liver	Hepatocellular Carcinoma
+TCGA-RC-A7SH-01	7	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3846	G3	0.3184	0.37	60	HCC	Primary	Matched	37	Yes	No	University of Utah	RC	2.066666667	Liver	Hepatocellular Carcinoma
+TCGA-RC-A7SK-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3095	G3	0.3224	0.09	136	HCC	Primary	Matched	116	Yes	No	University of Utah	RC	4.5	Liver	Hepatocellular Carcinoma
+TCGA-RG-A7D4-01	31	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4577	G2	0.3339	0	91	HCC	Primary	Matched	13	Yes	No	Montefiore Medical Center	RG	3.066666667	Liver	Hepatocellular Carcinoma
+TCGA-UB-A7MA-01	14	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4301	G2	0.3225	0.27	70	HCC	Primary	Matched	169	Yes	No	UCSF	UB	2.333333333	Liver	Hepatocholangiocarcinoma (Mixed)
+TCGA-UB-A7MB-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1698	G3	0.3246	0.28	1319	HCC	Primary	Matched	135	Yes	No	UCSF	UB	44.1	Liver	Hepatocellular Carcinoma
+TCGA-UB-A7MC-01	15	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4477	G3	0.3244	0.62	62	HCC	Primary	Matched	28	Yes	No	UCSF	UB	2.1	Liver	Hepatocellular Carcinoma
+TCGA-UB-A7MD-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1905	G3	0.3376	0	105	HCC	Primary	Matched	9	Yes	No	UCSF	UB	3.5	Liver	Hepatocellular Carcinoma
+TCGA-UB-A7ME-01	25	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4304	G2	0.3146	0.11	79	HCC	Primary	Matched	90	Yes	No	UCSF	UB	2.666666667	Liver	Hepatocellular Carcinoma
+TCGA-UB-A7MF-01	12	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2654	G2	0.3236	0.08	101	HCC	Primary	Matched	61	Yes	No	UCSF	UB	3.333333333	Liver	Hepatocellular Carcinoma
+TCGA-UB-AA0U-01	18	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4287	G2	0.3128	0	71	HCC	Primary	Matched	39	Yes	No	UCSF	UB	2.333333333	Liver	Hepatocellular Carcinoma
+TCGA-UB-AA0V-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0	G1	0.3142	0	33	HCC	Primary	Matched	0	Yes	No	UCSF	UB	1.2	Liver	Hepatocellular Carcinoma
+TCGA-WJ-A86L-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1545	G2	0.3161	0.17	121	HCC	Primary	Matched	233	Yes	No	Greenville Health System	WJ	4.033333333	Liver	Hepatocellular Carcinoma
+TCGA-WQ-A9G7-01	21	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.4075	G3	0.4628	6.58	447	HCC	Primary	Matched	54	No	Yes	University of Kansas	WQ	15.06666667	Liver	Hepatocellular Carcinoma
+TCGA-WQ-AB4B-01	24	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.3343	G2	0.3109	0.01	67	HCC	Primary	Matched	22	No	Yes	University of Kansas	WQ	2.233333333	Liver	Hepatocellular Carcinoma
+TCGA-WX-AA44-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1867	G3	0.3213	0.02	70	HCC	Primary	Matched	28	Yes	No	Yale University	WX	2.333333333	Liver	Hepatocellular Carcinoma
+TCGA-WX-AA46-01	2	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0543	G1	0.2984	0	61	HCC	Primary	Matched	0	No	Yes	Yale University	WX	2.033333333	Liver	Hepatocellular Carcinoma
+TCGA-WX-AA47-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.23	G2	0.3103	0.1	39	HCC	Primary	Matched	13	No	Yes	Yale University	WX	1.3	Liver	Hepatocellular Carcinoma
+TCGA-XR-A8TD-01	8	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2393	G3	0.3061	0	51	HCC	Primary	Matched	258	No	Yes	University of Sao Paulo	XR	1.7	Liver	Hepatocellular Carcinoma
+TCGA-XR-A8TE-01	6	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2089	G1	0.3165	0.29	12	HCC	Primary	Matched	13	No	Yes	University of Sao Paulo	XR	0.4	Liver	Hepatocellular Carcinoma
+TCGA-XR-A8TF-01	17	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5159	G1	0.3013	0.36	133	HCC	Primary	Matched	67	No	Yes	University of Sao Paulo	XR	4.5	Liver	Hepatocellular Carcinoma
+TCGA-XR-A8TG-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2033	G2	0.3156	0.02	78	HCC	Primary	Matched	594	No	Yes	University of Sao Paulo	XR	2.6	Liver	Hepatocellular Carcinoma
+TCGA-YA-A8S7-01	24	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2706	G3	0.3144	0.01	70	HCC	Primary	Matched	27	No	Yes	Spectrum Health	YA	2.366666667	Liver	Hepatocellular Carcinoma
+TCGA-ZP-A9CV-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.153	G1	0.3051	0.01	104	HCC	Primary	Matched	19	No	Yes	Medical College of Wisconsin	ZP	3.5	Liver	Hepatocellular Carcinoma
+TCGA-ZP-A9CY-01	0	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.0245	G1	0.3011	0.01	82	HCC	Primary	Matched	22	No	Yes	Medical College of Wisconsin	ZP	2.8	Liver	Hepatocellular Carcinoma
+TCGA-ZP-A9CZ-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1809	G1	0.3073	0	47	HCC	Primary	Matched	30	No	Yes	Medical College of Wisconsin	ZP	1.566666667	Liver	Hepatocellular Carcinoma
+TCGA-ZP-A9D0-01	4	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1723	G1	0.3026	0.1	52	HCC	Primary	Matched	71	No	Yes	Medical College of Wisconsin	ZP	1.766666667	Liver	Hepatocellular Carcinoma
+TCGA-ZP-A9D1-01	16	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.5078	G2	0.3066	0.01	119	HCC	Primary	Matched	9	No	Yes	Medical College of Wisconsin	ZP	4.033333333	Liver	Hepatocellular Carcinoma
+TCGA-ZP-A9D2-01	10	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.282	G2	0.3118	0.32	54	HCC	Primary	Matched	41	No	Yes	Medical College of Wisconsin	ZP	1.833333333	Liver	Hepatocellular Carcinoma
+TCGA-ZP-A9D4-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1411	G1	0.3105	0.03	63	HCC	Primary	Matched	94	No	Yes	Medical College of Wisconsin	ZP	2.166666667	Liver	Hepatocellular Carcinoma
+TCGA-ZS-A9CD-01	3	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1593	G2	0.3083	0	92	HCC	Primary	Matched	16	No	Yes	Tayside Tissue Bank	ZS	3.1	Liver	Hepatocellular Carcinoma
+TCGA-ZS-A9CE-01	14	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2797	G1	0.3078	0.17	117	HCC	Primary	Matched	51	No	Yes	Tayside Tissue Bank	ZS	3.9	Liver	Hepatocellular Carcinoma
+TCGA-ZS-A9CF-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.2228	G2	0.3186	0.23	82	HCC	Primary	Matched	556	No	Yes	Tayside Tissue Bank	ZS	2.833333333	Liver	Hepatocellular Carcinoma
+TCGA-ZS-A9CG-01	5	Hepatobiliary Cancer	Hepatocellular Carcinoma	0.1941	G2	0.2993	0.18	75	HCC	Primary	Matched	14	No	Yes	Tayside Tissue Bank	ZS	2.5	Liver	Hepatocellular Carcinoma
